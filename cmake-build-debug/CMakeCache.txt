@@ -248,6 +248,9 @@ OOP_Project_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 OOP_Project_SOURCE_DIR:STATIC=C:/Users/tadbirsabz/Desktop/OOP Project
 
+//The directory containing a CMake configuration file for SDL2.
+SDL2_DIR:PATH=C:/MinGW/SDL2-2.28.5/cmake
+
 
 ########################
 # INTERNAL cache entries
